@@ -1,0 +1,1 @@
+api_url = "https://hande-store-603966993c32.herokuapp.com";
